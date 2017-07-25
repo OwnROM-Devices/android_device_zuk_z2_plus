@@ -162,8 +162,6 @@
 
     </PreferenceCategory>
     
-    </PreferenceCategory>
-
     <PreferenceCategory
         android:key="menu_key"
         android:title="@string/hardware_keys_menu_key_title" 
